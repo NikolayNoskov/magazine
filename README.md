@@ -1,0 +1,2 @@
+# magazine
+study django project
